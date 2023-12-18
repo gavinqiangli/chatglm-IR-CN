@@ -1,2 +1,3 @@
 zhipuai
 python-dotenv
+streamlit_chat
